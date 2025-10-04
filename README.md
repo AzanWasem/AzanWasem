@@ -55,11 +55,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer&animation=twinkling" />
 </p>
 
----
-
-### 🎯 Fun Fact:
-✨ *"AI won’t replace humans, but humans with AI will replace those without it."*
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzanWasim&theme=react-dark" />
 </p>
