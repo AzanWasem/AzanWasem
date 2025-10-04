@@ -62,4 +62,10 @@
 ---
 
 ### 🎯 Fun Fact:
-✨ *"AI won’t replace humans, but humans with AI will replace those without it."*
+✨ "I’m Azan Waseem, a passionate learner focused on Artificial Intelligence, Machine Learning, and Data Science.
+Currently on a deep journey of mastering AI systems, from data preprocessing and predictive modeling to deep learning and model deployment.
+I believe in discipline, consistency, and self-improvement.
+Over the past year, I’ve left all distractions, including social media and music, to fully dedicate my time to learning, building, and understanding how intelligence works.My goals include becoming an AI Engineer capable of solving real-world problems through intelligent systems, automation, and data-driven decision-making.
+Every day is a step closer to clarity, purpose, and mastery.
+
+
