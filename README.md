@@ -93,10 +93,3 @@ Every day is a step closer to clarity, purpose, and mastery.
 
 ### Fun Fact & I need this 🎓 ..
 <h3 align="center">⚡ Harsh Truths ⚡</h3>
-
-<p align="center">
-<strong>Azan, stay hungry. Stay cold. No feelings, just purpose.</strong><br>
-<strong>While others scroll, I build. While they sleep, I train. I don’t need motivation, I need results.</strong><br>
-<strong>Azan, you don’t need motivation, you need control. Every wasted hour is proof that your old self is still winning. Kill him.</strong><br>
-<strong>Azan, you’re not fighting the world, you’re fighting your own weakness. Every day you lose focus, that weakness laughs. Don’t let it.</strong>
-</p>
