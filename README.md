@@ -90,6 +90,3 @@ Currently on a deep journey of mastering AI systems, from data preprocessing and
 I believe in discipline, consistency, and self-improvement.
 Over the past year, I’ve left all distractions, including social media and music, to fully dedicate my time to learning, building, and understanding how intelligence works.My goals include becoming an AI Engineer capable of solving real-world problems through intelligent systems, automation, and data-driven decision-making.
 Every day is a step closer to clarity, purpose, and mastery.
-
-### Fun Fact & I need this 🎓 ..
-<h3 align="center">⚡ Harsh Truths ⚡</h3>
