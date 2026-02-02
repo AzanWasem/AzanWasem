@@ -63,26 +63,7 @@
     <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>
     <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>
     <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>
-</div>
 
-<br>
-
-### ⚡ GitHub Stats & Activity
-
-<br>
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=huzaifakhan04&column=-1&theme=dark_lover">
-</div>
-
-<br>
-
-### 
-<br>
-
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=EBD665&center=true&width=435&lines=To+infinity...+and+beyond!+%F0%9F%9A%80" alt="Typing SVG" /></a>
-</div>
 
 ### 🎯 About Me:
 "I’m Azan Waseem, With a 1.5 Years+ of experience in AI/ML Also a passionate learner focused on Artificial Intelligence, Machine Learning, and Data Science.
